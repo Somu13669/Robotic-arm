@@ -19,3 +19,10 @@ Stepper NEMA17 A4988
 
 
 **Total time spent: 2 hours**
+# 02-10-26: Started on a CAD design and create a plan.
+Did more Cad Desinging
+
+<img width="1920" height="1080" alt="{5D7AB9A7-7776-486C-8826-F264A2831002}" src="https://github.com/user-attachments/assets/9708f38d-0bc0-4985-89fb-4a46f4a33ae2" />
+
+
+**Total time spent: 2 hours**
